@@ -80,27 +80,28 @@ Building scalable backend systems & modern frontend applications
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sunil4510&show_icons=true&theme=algolia" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil4510&layout=compact&theme=algolia" height="180"/>
+  <a href="https://github.com/Sunil4510">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Sunil4510&show_icons=true&count_private=true&theme=algolia"
+      height="190px"
+    />
+  </a>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil4510&theme=algolia"/>
+  <a href="https://github.com/Sunil4510">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Sunil4510&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
+      height="190px"
+    />
+  </a>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sunil4510&theme=algolia&row=1&column=6"/>
+  <b>Note:</b> Top languages reflects public repositories only.
 </p>
 
 ---
