@@ -80,31 +80,7 @@ Building scalable backend systems & modern frontend applications
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Sunil4510">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Sunil4510&show_icons=true&count_private=true&theme=algolia"
-      height="190px"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sunil4510">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Sunil4510&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-      height="190px"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <b>Note:</b> Top languages reflects public repositories only.
-</p>
-
----
+## 📊 GitHub Stats <p align="center"> <a href="https://github.com/Sunil4510"> <img src="https://github-readme-stats.vercel.app/api?username=Sunil4510&show_icons=true&count_private=true&theme=algolia" height="190px" /> </a> </p> <p align="center"> <a href="https://github.com/Sunil4510"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sunil4510&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="190px" /> </a> </p> <p align="center"> <b>Note:</b> Top languages reflects public repositories only. </p> ---
 
 ## 📬 Connect With Me
 
