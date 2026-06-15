@@ -3,7 +3,7 @@ Hi, I'm Sunil Kurapati 👋
 </h1>
 
 <p align="center">
-🚀 Software Engineer (3+ Years Experience)  
+🚀 Software Engineer (3.5+ Years Experience)  
 Backend-Heavy Full-Stack Developer (MERN)  
 Building scalable backend systems & modern frontend applications
 </p>
@@ -19,7 +19,7 @@ Building scalable backend systems & modern frontend applications
 
 ## 👨‍💻 About Me
 
-- 💼 **Software Engineer with 3+ years of industry experience**
+- 💼 **Software Engineer with 3.5+ years of industry experience**
 - ⚙️ **Backend-heavy Full-Stack Developer (MERN)**
 - 🎨 Strong in building **responsive, performant frontend apps using React**
 - 🧠 Experienced in **system design, APIs & database modeling**
